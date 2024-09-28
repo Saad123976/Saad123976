@@ -9,9 +9,9 @@
 
   💻 Skills:
 
-Python
-SQL
-Advance Excel
-Tableau
-Data Analysis
-Business Analysis
+- Advance Excel
+- SQL
+- Python
+- Tableau
+- Data Analysis
+- Business Analysis
