@@ -14,7 +14,7 @@
 
 
 
-💻## **Skills:**
+## **💻Skills:**
 
 - Advance Excel
 - SQL
