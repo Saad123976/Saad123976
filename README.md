@@ -1,3 +1,5 @@
+![Alt text](https://github.com/sanyavirmani/sanyavirmani/blob/main/banner.pn)
+
 #### **Hi there** 👋
 
 ✨ **About me:**
