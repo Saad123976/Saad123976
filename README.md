@@ -1,4 +1,4 @@
-![Alt text]![Uploading banner.png…]()
+![Alt text](Uploading banner.png)
 
 
 #### **Hi there** 👋
