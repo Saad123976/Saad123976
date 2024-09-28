@@ -1,4 +1,4 @@
-![Alt text](C:\Users\King\Desktop\banner.png)
+![Alt text]C:\Users\King\Desktop\banner.png
 
 
 #### **Hi there** 👋
