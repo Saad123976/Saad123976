@@ -23,4 +23,4 @@
 
 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saad123976&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saad123976&theme=cobalt)
