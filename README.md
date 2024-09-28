@@ -1,4 +1,5 @@
-![Alt text](https://github.com/sanyavirmani/sanyavirmani/blob/main/banner.pn)
+![Alt text]![Uploading banner.png…]()
+
 
 #### **Hi there** 👋
 
