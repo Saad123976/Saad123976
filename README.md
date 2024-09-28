@@ -1,7 +1,7 @@
 ![Alt text](banner.png)
 
 
-#### **Hi there** 👋
+# **Hi there** 👋
 
 ✨ **About me:**
 
