@@ -3,7 +3,7 @@
 
 # **Hi there** 👋
 
-✨## **About me:**
+##✨**About me:**
 
 - 🔭  I’m interested in Data Analytics and Data Science.
 - 🌱 I’m currently learning Python
