@@ -19,6 +19,7 @@
 - Advance Excel
 - SQL
 - Python
+- Machine Learning
 - Tableau
 - Data Analysis
 - Business Analysis
