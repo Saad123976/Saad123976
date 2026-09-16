@@ -34,7 +34,8 @@ Technical interests: Python | SQL | Machine Learning | NLP | Data Analytics | Da
 - Machine Learning
 - Tableau
 - Data Analysis
-- Business Analysis
+- NLP
+- Data Mining
 
 
 ## **📊GitHub Stats:**
