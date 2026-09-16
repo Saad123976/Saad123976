@@ -17,7 +17,7 @@ I’m now building on that industry foundation to transition deeper into Data Sc
 
  
 
-At UW–Madison, I’m further developing this skill set through coursework in Machine Learning (STAT 451), NLP & Text Mining (LIS 501), Data Mining Planning and Management (LIS 706), Relational Database Design (LIS 751), and, Date Management (LSI 711), and Data Visualization (LIS 707).
+At UW–Madison, I’m further developing this skill set through coursework in Machine Learning (STAT 451), NLP & Text Mining (LIS 501), Data Mining Planning and Management (LIS 706), Relational Database Design (LIS 751), Data Management (LIS 711), and Data Visualization (LIS 707).
 
 Technical interests: Python | SQL | Machine Learning | NLP | Data Analytics | Data Engineering | Data Visualization
 
